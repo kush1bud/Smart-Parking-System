@@ -103,6 +103,3 @@ Figure 2 – Observation of the each lane in parking area and the vacant lane is
     <img src="https://raw.githubusercontent.com/abhishekapk/SMART-PARKING-SYSTEM/master/Images/image9.jpg" alt="Figure 2" width="auto" height="auto">
   </a></p>
 <br>
-<h2>📜 LICENSE</h2>
-
-[MIT](https://github.com/abhishekapk/SMART-PARKING-SYSTEM/blob/master/LICENSE)
